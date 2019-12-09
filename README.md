@@ -1,0 +1,4 @@
+
+```
+expo start --web
+```
